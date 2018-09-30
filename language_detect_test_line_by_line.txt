@@ -1,0 +1,640 @@
+DE	ich liebe es, geröstete käse und thunfisch-sandwiches zu essen.
+EN	i love to eat roasted cheese and tuna sandwiches.
+ES	me encanta comer queso tostado y sándwiches de atún.
+FR	j'aime manger du fromage rôti et des sandwichs au thon.
+IT	mi piace mangiare formaggio arrosto e panini al tonno.
+NL	ik ben dol op het eten van geroosterde kaas en tonijnsandwiches.
+PT	eu adoro comer sanduíches de queijo e atum assados.
+SV	jag älskar att äta grillad ost och tonfisksmörgåsar.
+DE	ich bin glücklich, ihre spende zu nehmen; jeder betrag wird sehr geschätzt.
+EN	i am happy to take your donation; any amount will be greatly appreciated.
+ES	estoy feliz de tomar su donación; cualquier cantidad será enormemente apreciada.
+FR	je suis heureux de prendre votre don; tout montant sera grandement apprécié.
+IT	sono felice di portare la tua donazione; qualsiasi importo sarà molto apprezzato.
+NL	ik ben blij om uw gift te nemen; elk bedrag wordt zeer op prijs gesteld.
+PT	estou feliz por receber sua doação; qualquer quantia será muito apreciada.
+SV	jag är glad att ta din donation vilket belopp som helst kommer att uppskattas mycket.
+DE	vierundsechzig kommt um brot bitten.
+EN	sixty-four comes asking for bread.
+ES	sesenta y cuatro viene pidiendo pan.
+FR	soixante-quatre vient demander du pain.
+IT	sessantaquattro viene a chiedere il pane.
+NL	vierenzestig komt vragen om brood.
+PT	sessenta e quatro vem pedindo pão.
+SV	sextiofyra frågar efter bröd.
+DE	ich denke, ich werde das rote auto kaufen, oder ich werde das blaue auto mieten.
+EN	i think i'll buy the red car, or i'll rent the blue car.
+ES	creo que compraré el auto rojo, o alquilaré el auto azul.
+FR	je pense que je vais acheter la voiture rouge, ou je vais louer la voiture bleue.
+IT	penso che comprerò l'auto rossa, o affitterò l'auto blu.
+NL	ik denk dat ik de rode auto ga kopen, of ik huur de blauwe auto.
+PT	acho que vou comprar o carro vermelho ou vou alugar o carro azul.
+SV	jag tror att jag ska köpa den röda bilen, eller jag hyr den blå bilen.
+DE	wir müssen ein zimmer für unsere party mieten.
+EN	we need to rent a room for our party.
+ES	tenemos que alquilar una habitación para nuestra fiesta.
+FR	nous devons louer une chambre pour notre fête.
+IT	abbiamo bisogno di affittare una stanza per la nostra festa.
+NL	we moeten een kamer huren voor ons feest.
+PT	precisamos alugar um quarto para a nossa festa.
+SV	vi behöver hyra ett rum för vårt parti.
+DE	sie malt nur mit kräftigen farben; sie mag keine pastelle.
+EN	she only paints with bold colors; she does not like pastels.
+ES	ella solo pinta con colores vivos; a ella no le gustan los pasteles.
+FR	elle ne peint que de couleurs vives; elle n'aime pas les pastels.
+IT	lei dipinge solo con colori audaci; a lei non piacciono i pastelli.
+NL	ze schildert alleen met gedurfde kleuren; ze houdt niet van pastelkrijt.
+PT	ela só pinta com cores fortes; ela não gosta de pastéis.
+SV	hon målar bara med djärva färger; hon gillar inte pasteller.
+DE	die erinnerung, die wir normalerweise teilen, ist nicht mehr kohärent.
+EN	the memory we usually share is no longer coherent.
+ES	la memoria que solemos compartir no es más coherente.
+FR	la mémoire que nous partageons habituellement n'est plus cohérente.
+IT	la memoria che di solito condividiamo non è più coerente.
+NL	de herinnering die we gewoonlijk delen is niet langer coherent.
+PT	a memória que costumamos compartilhar não é mais coerente.
+SV	minnet vi brukar dela är inte längre sammanhängande.
+DE	der schnelle braune fuchs springt über den faulen hund.
+EN	the quick brown fox jumps over the lazy dog.
+ES	el zorro marrón rápido salta sobre el perro perezoso.
+FR	le renard brun rapide saute par-dessus le chien paresseux.
+IT	la volpe marrone veloce salta sul cane pigro.
+NL	de vlugge bruine vos springt over de luie hond.
+PT	a rápida raposa marrom pula sobre o cão preguiçoso.
+SV	den snabba brunräven hoppar över den lata hunden.
+DE	bitte warten sie außerhalb des hauses.
+EN	please wait outside the house.
+ES	por favor espere fuera de la casa.
+FR	s'il vous plaît attendre à l'extérieur de la maison.
+IT	per favore aspetta fuori casa.
+NL	wacht alsjeblieft buiten het huis.
+PT	por favor, espere do lado de fora da casa.
+SV	vänligen vänta utanför huset.
+DE	lass uns alle zusammen einzigartig sein, bis wir erkennen, dass wir alle gleich sind.
+EN	let's all be unique together until we realise we are all the same.
+ES	seamos únicos juntos hasta que nos demos cuenta de que todos somos iguales.
+FR	soyons tous uniques jusqu’à ce que nous réalisions que nous sommes tous pareils.
+IT	diventiamo tutti unici finché non ci rendiamo conto che siamo tutti uguali.
+NL	laten we allemaal uniek zijn totdat we ons realiseren dat we allemaal hetzelfde zijn.
+PT	vamos todos ser únicos juntos até percebermos que somos todos iguais.
+SV	låt oss alla vara unika tillsammans tills vi inser att vi är alla samma.
+DE	der see ist sehr weit von hier.
+EN	the lake is very far from here.
+ES	el lago está muy lejos de aquí.
+FR	le lac est très loin d'ici.
+IT	il lago è molto lontano da qui.
+NL	het meer is erg ver van hier.
+PT	o lago é muito longe daqui.
+SV	sjön är väldigt långt ifrån här.
+DE	wie war der mathetest?
+EN	how was the math test?
+ES	como estuvo la prueba de matemáticas?
+FR	comment s'est passé le test de maths?
+IT	come è stato il test di matematica?
+NL	hoe was de wiskundetest?
+PT	como foi o teste de matemática?
+SV	hur var matteprovet?
+DE	sie riet ihm, sofort zurückzukommen.
+EN	she advised him to come back immediately.
+ES	ella le aconsejó que regresara inmediatamente.
+FR	elle lui a conseillé de revenir immédiatement.
+IT	lei gli consigliò di tornare subito.
+NL	ze adviseerde hem om onmiddellijk terug te komen.
+PT	ela o aconselhou a voltar imediatamente.
+SV	hon rådde honom att omedelbart komma tillbaka.
+DE	ein schimmernder Edelstein ist nicht genug.
+EN	a shimmering gemstone is not enough.
+ES	una gema brillante no es suficiente.
+FR	une pierre précieuse chatoyante ne suffit pas.
+IT	una gemma scintillante non è abbastanza.
+NL	een glinsterende edelsteen is niet genoeg.
+PT	uma pedra preciosa cintilante não é suficiente.
+SV	en skimrande ädelsten är inte tillräckligt.
+DE	tom nahm ein kleines stück kuchen.
+EN	tom picked up a small piece of pie.
+ES	tom tomó un pequeño pedazo de pastel.
+FR	tom prit un petit morceau de tarte.
+IT	tom prese un pezzetto di torta.
+NL	tom pakte een klein stukje taart.
+PT	tom pegou um pequeno pedaço de torta.
+SV	tom plockade upp en liten bit paj.
+DE	das buch steht vor dem tisch.
+EN	the book is in front of the table.
+ES	el libro está frente a la mesa.
+FR	le livre est devant la table.
+IT	il libro è di fronte al tavolo.
+NL	het boek staat voor de tafel.
+PT	o livro está na frente da mesa.
+SV	boken ligger framför bordet.
+DE	ein lied kann den tag einer person verderben oder ruinieren, wenn sie es zu ihnen kommen lässt.
+EN	a song can make or ruin a person's day if it makes them come to them.
+ES	una canción puede hacer o arruinar el día de una persona si dejan que llegue a ellos
+FR	une chanson peut faire ou gâcher la journée d'une personne si elle la laisse
+IT	una canzone può fare o rovinare il giorno di una persona se lascia che arrivi a loro
+NL	een lied kan de dag van een persoon tenietdoen of verpesten als ze het aan hem laten komen
+PT	uma música pode fazer ou arruinar o dia de uma pessoa se ela deixar chegar a ela
+SV	en sång kan göra eller förstöra en persons dag om de låter den komma till dem
+DE	ich zähle meine kalorien, aber ich will wirklich nachtisch.
+EN	i am counting my calories, yet i really want dessert.
+ES	estoy contando mis calorías, pero realmente quiero el postre.
+FR	je compte mes calories, mais je veux vraiment un dessert.
+IT	sto contando le mie calorie, eppure voglio davvero un dessert.
+NL	ik tel mijn calorieën, maar ik wil echt een toetje.
+PT	eu estou contando minhas calorias, mas eu realmente quero sobremesa.
+SV	jag räknar med mina kalorier, men jag vill verkligen ha efterrätt.
+DE	er erzählte uns eine sehr spannende abenteuergeschichte.
+EN	he told us a very exciting adventure story.
+ES	nos contó una historia de aventuras muy emocionante.
+FR	il nous a raconté une aventure passionnante.
+IT	ci ha raccontato una storia d'avventura molto eccitante.
+NL	hij vertelde ons een heel spannend avonturenverhaal.
+PT	ele nos contou uma história de aventura muito emocionante.
+SV	han berättade för oss en mycket spännande äventyrshistoria.
+DE	die wellen stürzten am ufer; e war ein wunderschöner anblick.
+EN	the waves crashed on the shore; it was a beautiful sight.
+ES	las olas se estrellaron en la orilla; fue una vista hermosa.
+FR	les vagues s'écrasaient sur le rivage; c'était une belle vue.
+IT	le onde si infrangono sulla riva; era una vista bellissima.
+NL	de golven stortten neer op de kust; het was een prachtig gezicht.
+PT	as ondas bateram na costa; era uma visão bonita.
+SV	vågorna kraschade på stranden; det var en vacker syn.
+DE	er faltete sein taschentuch sauber.
+EN	he folded his handkerchief neatly.
+ES	él dobló su pañuelo prolijamente.
+FR	il plia soigneusement son mouchoir.
+IT	piegò ordinatamente il fazzoletto.
+NL	hij vouwde zijn zakdoek netjes op.
+PT	ele dobrou o lenço com cuidado.
+SV	han vikte sitt näsduk snyggt.
+DE	der himmel ist klar; die sterne funkeln.
+EN	the sky is clear; the stars sparkle.
+ES	el cielo es claro; las estrellas brillan
+FR	le ciel est clair; les étoiles scintillent.
+IT	il cielo è chiaro; le stelle brillano.
+NL	de lucht is helder; de sterren fonkelen.
+PT	o céu está claro; as estrelas brilham.
+SV	himlen är klar; stjärnorna gnistrar.
+DE	ja, ich denke, es ist eine gute umgebung, um englisch zu lernen.
+EN	yes, i think it's a good environment to learn english.
+ES	sí, creo que es un buen ambiente para aprender inglés.
+FR	oui, je pense que c'est un bon environnement pour apprendre l'anglais.
+IT	sì, penso che sia un buon ambiente per imparare l'inglese.
+NL	ja, ik denk dat het een goede omgeving is om engels te leren.
+PT	sim, eu acho que é um bom ambiente para aprender inglês.
+SV	ja, jag tycker att det är en bra miljö att lära sig engelska.
+DE	beeilen sie sich!
+EN	hurry!
+ES	darse prisa!
+FR	dépêchez-vous!
+IT	affrettatevi!
+NL	schiet op!
+PT	apresse!
+SV	skynda!
+DE	zwei sitze waren frei.
+EN	two seats were free.
+ES	dos asientos eran gratis.
+FR	deux places étaient gratuites.
+IT	due posti erano gratuiti.
+NL	twee stoelen waren gratis.
+PT	dois lugares estavam livres.
+SV	två platser var fria.
+DE	sie schrieb ihm einen langen brief, aber er las es nicht.
+EN	she wrote him a long letter, but he didn't read it.
+ES	ella le escribió una larga carta, pero no la leyó.
+FR	elle lui a écrit une longue lettre, mais il ne l'a pas lue.
+IT	lei gli ha scritto una lunga lettera, ma lui non l'ha letto.
+NL	ze schreef hem een ​​lange brief, maar hij las het niet.
+PT	ela escreveu uma longa carta para ele, mas ele não leu.
+SV	hon skrev honom ett långt brev, men han läste inte det.
+DE	ich bin sonntags nie zu hause.
+EN	i'm never home on sundays.
+ES	nunca estoy en casa los domingos.
+FR	je ne suis jamais à la maison le dimanche.
+IT	non sono mai a casa la domenica.
+NL	ik ben nooit thuis op zondag.
+PT	eu nunca estou em casa aos domingos.
+SV	jag är aldrig hemma på söndagar.
+DE	sie hat den test nicht betrogen, weil es nicht richtig war.
+EN	she did not cheat on the test because it was not the right thing to do.
+ES	ella no hizo trampa en la prueba porque no era lo correcto.
+FR	elle n'a pas triché sur le test, car ce n'était pas la bonne chose à faire.
+IT	lei non ha imbrogliato sul test perché non era la cosa giusta da fare.
+NL	ze speelde geen vals spel omdat het niet goed was om te doen.
+PT	ela não trapaceou no teste porque não era a coisa certa a fazer.
+SV	hon fuskade inte på provet eftersom det inte var det rätta att göra.
+DE	der fluss hat die götter gestohlen.
+EN	the river has stolen the gods.
+ES	el río ha robado a los dioses.
+FR	la rivière a volé les dieux.
+IT	il fiume ha rubato gli dei.
+NL	de rivier heeft de goden gestolen.
+PT	o rio roubou os deuses.
+SV	floden har stulit gudarna.
+DE	er wollte nicht zum zahnarzt gehen, trotzdem ging er trotzdem.
+EN	he did not want to go to the dentist, yet he went anyway.
+ES	no quería ir al dentista, pero se fue de todos modos.
+FR	il ne voulait pas aller chez le dentiste, pourtant il est parti quand même.
+IT	non voleva andare dal dentista, eppure è andato comunque.
+NL	hij wilde niet naar de tandarts, toch ging hij hoe dan ook.
+PT	ele não queria ir ao dentista, mas ele foi mesmo assim.
+SV	han ville inte gå till tandläkaren, men han gick ändå.
+DE	italien ist mein lieblingsland; ich habe vor, nächstes jahr zwei wochen dort zu verbringen.
+EN	italy is my favorite country; in fact, i plan to spend two weeks there next year.
+ES	italia es mi país favorito; en realidad, pretendo pasar dos semanas allí el año que viene.
+FR	l'italie est mon pays préféré; en fait, je prévois d'y passer deux semaines l'année prochaine.
+IT	l'italia è il mio paese preferito; infatti, ho intenzione di trascorrere due settimane l'anno prossimo.
+NL	italië is mijn favoriete land; in feite ben ik van plan er volgend jaar twee weken door te brengen.
+PT	a itália é meu país favorito; na verdade, eu pretendo passar duas semanas lá no ano que vem.
+SV	italien är mitt favoritland; i själva verket planerar jag att tillbringa två veckor där nästa år.
+DE	ein lila schwein und ein grüner hügel flogen mitten in der nacht einen drachen und endeten sonnenverbrannt.
+EN	a purple pig and a green hill flew a dragon in the middle of the night and ended sunburned.
+ES	un cerdo púrpura y una colina verde volaron un dragón en el medio de la noche y terminaron quemados por el sol.
+FR	un cochon pourpre et une colline verte ont volé un dragon au milieu de la nuit et ont fini par brûler le soleil.
+IT	un maiale viola e una collina verde hanno volato un drago nel cuore della notte e sono finiti bruciati dal sole.
+NL	een paars varken en een groene heuvel vlogen midden in de nacht een draak en eindigden verbrand door de zon.
+PT	um porco roxo e uma colina verde voaram um dragão no meio da noite e terminaram queimados de sol.
+SV	en lila gris och en grön ås flög en drake mitt på natten och slutade solbrända.
+DE	schau morgen zurück; ich werde sehen, ob das buch angekommen ist.
+EN	check back tomorrow; i will see if the book has arrived.
+ES	mira hacia atrás mañana; veré si el libro ha llegado.
+FR	regarde en arrière demain; je verrai si le livre est arrivé.
+IT	guarda indietro domani; vedrò se il libro è arrivato.
+NL	kijk morgen terug; ik zal zien of het boek is aangekomen.
+PT	olhe para trás amanhã; eu vou ver se o livro chegou.
+SV	titta tillbaka imorgon; jag ska se om boken har kommit fram.
+DE	wir haben viel regen im juni.
+EN	we have a lot of rain in june.
+ES	tenemos mucha lluvia en junio.
+FR	nous avons beaucoup de pluie en juin.
+IT	abbiamo un sacco di pioggia a giugno.
+NL	we hebben veel regen in juni.
+PT	nós temos muita chuva em junho.
+SV	vi har mycket regn i juni.
+DE	meine mutter versucht großartig zu sein, indem sie sagt, dass sie all die dinge mag, die ich mache.
+EN	my mother tries to be cool by saying that she likes all the things that i do.
+ES	mi madre intenta ser genial al decir que le gustan todas las cosas que yo hago.
+FR	ma mère essaie d'être géniale en disant qu'elle aime toutes les choses que je fais.
+IT	mia madre cerca di essere brava dicendo che le piacciono tutte le cose che faccio.
+NL	mijn moeder probeert groot te zijn door te zeggen dat ze van alle dingen houdt die ik doe.
+PT	minha mãe tenta ser ótima dizendo que gosta de todas as coisas que faço.
+SV	min mamma försöker vara bra genom att säga att hon gillar allt jag gör.
+DE	alle waren beschäftigt, also ging ich alleine zum film.
+EN	everyone was busy, so i went alone to the movie.
+ES	todos estaban ocupados, así que fui solo a la película.
+FR	tout le monde était occupé, alors je suis allé seul au film.
+IT	tutti erano occupati, quindi sono andato da solo al film.
+NL	iedereen was druk, dus ging ik alleen naar de film.
+PT	todos estavam ocupados, então fui sozinha ao filme.
+SV	alla var upptagna, så jag gick ensam i filmen.
+DE	es war zu kurz, um den zaun zu sehen.
+EN	it was too short to see beyond the fence.
+ES	era demasiado corto para ver más allá de la valla.
+FR	c'était trop court pour voir au-delà de la clôture.
+IT	era troppo corta per vedere oltre il recinto.
+NL	het was te kort om verder dan het hek te kijken.
+PT	era muito curto para ver além da cerca.
+SV	det var för kort för att se bortom staketet.
+DE	ist es kostenlos?
+EN	it is free?
+ES	es gratis?
+FR	est-ce gratuit?
+IT	è gratuito?
+NL	het is gratis?
+PT	é grátis?
+SV	är det gratis?
+DE	ich möchte wirklich zur arbeit gehen, aber ich bin zu krank, um zu fahren.
+EN	i really want to go to work, but i'm too sick to drive.
+ES	realmente quiero ir a trabajar, pero estoy muy enfermo para conducir.
+FR	je veux vraiment aller au travail, mais je suis trop malade pour conduire.
+IT	voglio davvero andare a lavorare, ma sono troppo malato per guidare.
+NL	ik wil echt naar mijn werk gaan, maar ik ben te ziek om te rijden.
+PT	eu realmente quero ir trabalhar, mas estou muito doente para dirigir.
+SV	jag vill verkligen gå till jobbet, men jag är för sjuk att köra.
+DE	das mysteriöse tagebuch zeichnet die stimme auf.
+EN	the mysterious diary records the voice.
+ES	el misterioso diario registra la voz.
+FR	le journal mystérieux enregistre la voix.
+IT	il misterioso diario registra la voce.
+NL	het mysterieuze dagboek registreert de stem.
+PT	o misterioso diário registra a voz.
+SV	den mystiska dagboken spelar in rösten.
+DE	ich habe derzeit 4 fenster öffnen ... und ich weiß nicht warum.
+EN	i currently have 4 windows open ... and i do not know why.
+ES	actualmente tengo 4 ventanas abiertas ... y no sé por qué.
+FR	j'ai actuellement 4 fenêtres ouvertes ... et je ne sais pas pourquoi.
+IT	al momento ho 4 finestre aperte ... e non so perché.
+NL	ik heb momenteel 4 ramen open ... en ik weet niet waarom.
+PT	atualmente tenho 4 janelas abertas ... e não sei porquê.
+SV	jag har för närvarande 4 fönster öppna ... och jag vet inte varför.
+DE	er hatte kein geld mehr, also musste er aufhören zu pokern.
+EN	he ran out of money, so he had to stop playing poker.
+ES	se quedó sin dinero, por lo que tuvo que dejar de jugar al póker.
+FR	il a manqué d'argent, alors il a dû arrêter de jouer au poker.
+IT	ha finito i soldi, quindi ha dovuto smettere di giocare a poker.
+NL	hij had geen geld meer, dus moest hij stoppen met pokeren.
+PT	ele ficou sem dinheiro, então ele teve que parar de jogar poker.
+SV	han sprang ur pengar, så han var tvungen att sluta spela poker.
+DE	ich möchte detailliertere informationen.
+EN	i want more detailed information.
+ES	quiero información más detallada.
+FR	je veux des informations plus détaillées.
+IT	voglio informazioni più dettagliate.
+NL	ik wil meer gedetailleerde informatie.
+PT	eu quero informações mais detalhadas.
+SV	jag vill ha mer detaljerad information.
+DE	lass mich dir mit deinem gepäck helfen.
+EN	let me help you with your luggage.
+ES	déjame ayudarte con tu equipaje.
+FR	laissez-moi vous aider avec vos bagages.
+IT	lascia che ti aiuti con i bagagli.
+NL	laat me je helpen met je bagage.
+PT	deixe-me ajudá-lo com sua bagagem.
+SV	låt mig hjälpa dig med ditt bagage.
+DE	eine liste von zufälligen phrasen zu schreiben ist schwieriger als ich ursprünglich dachte.
+EN	writing a list of random phrases is more difficult than i initially thought.
+ES	escribir una lista de frases aleatorias es más difícil de lo que inicialmente pensé.
+FR	écrire une liste de phrases aléatoires est plus difficile que je le pensais au départ.
+IT	scrivere una lista di frasi casuali è più difficile di quanto pensassi inizialmente.
+NL	het schrijven van een lijst met willekeurige zinnen is moeilijker dan ik aanvankelijk dacht.
+PT	escrever uma lista de frases aleatórias é mais difícil do que eu pensava inicialmente.
+SV	att skriva en lista med slumpmässiga fraser är svårare än jag trodde.
+DE	joe machte die kekse mit zucker; susan hat sie arrangiert.
+EN	joe made the cookies with sugar; susan has arranged them.
+ES	joe hizo las galletas con azúcar; susan los ha arreglado.
+FR	joe prépara les biscuits avec du sucre; susan les a arrangés.
+IT	joe preparò i biscotti con lo zucchero; susan li ha organizzati.
+NL	joe maakte de koekjes met suiker; susan heeft ze ingericht.
+PT	joe fez biscoitos com açúcar; susan os organizou.
+SV	joe gjorde kakorna med socker; susan har ordnat dem.
+DE	der körper mag den verlust einer wahren metaphysik kompensieren.
+EN	the body may compensate for the loss of a true metaphysics.
+ES	el cuerpo tal vez compense la pérdida de una verdadera metafísica.
+FR	le corps peut compenser la perte d'une véritable métaphysique.
+IT	il corpo può compensare la perdita di una vera metafisica.
+NL	het lichaam kan het verlies van een echte metafysica compenseren.
+PT	o corpo talvez compense a perda de uma verdadeira metafísica.
+SV	kroppen kan kompensera för förlusten av en sann metafysik.
+DE	dies ist eine japanische puppe.
+EN	this is a japanese doll.
+ES	esta es una muñeca japonesa.
+FR	ceci est une poupée japonaise.
+IT	questa è una bambola giapponese.
+NL	dit is een japanse pop.
+PT	esta é uma boneca japonesa.
+SV	det här är en japansk docka.
+DE	ich möchte einen strampler kaufen ... aber ich weiß, dass es mir nicht passt.
+EN	i want to buy a jumpsuit ... but i don't know if i will like it.
+ES	quiero comprar un mono ... pero no sé si me gustará.
+FR	je veux acheter une combinaison ... mais je ne sais pas si je l'aimerai.
+IT	voglio comprare una tuta ... ma non so se mi piacerà.
+NL	ik wil een jumpsuit kopen ... maar ik weet niet of ik het leuk zal vinden.
+PT	eu quero comprar um macacão ... mas eu não sei se vou gostar.
+SV	jag vill köpa en jumpsuit ... men jag vet inte om jag gillar det.
+DE	trete nicht auf das zerbrochene glas.
+EN	don't step on the broken glass.
+ES	no pise los vidrios rotos.
+FR	ne pas marcher sur le verre brisé.
+IT	non calpestare i vetri rotti.
+NL	stap niet op het gebroken glas.
+PT	não pise no vidro quebrado.
+SV	steg inte på det trasiga glaset.
+DE	sie kamen früh an und bekamen sehr gute plätze.
+EN	they arrived early and got very good seats.
+ES	llegaron temprano y obtuvieron muy buenos asientos.
+FR	ils sont arrivés tôt et ont obtenu de très bonnes places.
+IT	sono arrivati presto e hanno ottenuto posti molto buoni.
+NL	ze kwamen vroeg aan en kregen goede zetels.
+PT	chegaram cedo e conseguiram lugares muito bons.
+SV	de kom tidigt och fick mycket bra platser.
+DE	das unbekannte amtiert das essen.
+EN	the unknown officiates the meal.
+ES	el desconocido oficia la comida.
+FR	l'inconnu officie le repas.
+IT	l'ignoto officia il pasto.
+NL	het onbekende officiates de maaltijd.
+PT	o desconhecido oficia a refeição.
+SV	det okända tjänar måltiden.
+DE	ich werde nie wieder so jung sein. oh verdammt ... ich bin gerade älter geworden.
+EN	i will never be so young ever again. oh damn ... i just got older.
+ES	nunca seré tan joven nunca más. oh maldición ... solo me hice mayor.
+FR	je ne serai plus jamais si jeune. oh putain ... je viens de vieillir.
+IT	non sarò mai più così giovane mai. oh dannazione ... sono appena diventato più vecchio.
+NL	ik zal nooit meer zo jong zijn. oh verdomme ... ik ben net ouder geworden.
+PT	eu nunca serei tão jovem novamente. oh maldito ... eu só fiquei mais velho.
+SV	jag kommer aldrig att bli så ung någonsin igen. åh jävla ... jag blev bara äldre.
+DE	der schütze verabschiedet sich von seiner liebe.
+EN	the shooter says goodbye to his love.
+ES	el tirador se despide de su amor
+FR	le tireur dit au revoir à son amour.
+IT	il tiratore saluta il suo amore.
+NL	de schutter neemt afscheid van zijn liefde.
+PT	o atirador diz adeus ao seu amor.
+SV	skytten säger adjö till sin kärlek.
+DE	einkaufszentren sind großartige orte zum einkaufen; ich finde alles, was ich brauche, unter einem dach.
+EN	malls are great places to shop; i can find everything i need under one roof.
+ES	los centros comerciales son excelentes lugares para hacer compras; puedo encontrar todo lo que necesito bajo el mismo techo.
+FR	les centres commerciaux sont d'excellents endroits pour faire du shopping; je peux trouver tout ce dont j'ai besoin sous un même toit.
+IT	i centri commerciali sono ottimi posti per fare acquisti; posso trovare tutto ciò di cui ho bisogno sotto lo stesso tetto.
+NL	winkelcentra zijn geweldige plekken om te winkelen; ik kan alles vinden wat ik nodig heb onder één dak.
+PT	shoppings são ótimos lugares para fazer compras; eu posso encontrar tudo que preciso sob o mesmo teto.
+SV	köpcentra är bra ställen att handla; jag kan hitta allt jag behöver under ett tak.
+DE	ich überprüfte, ob er noch lebte.
+EN	i checked to make sure he was still alive.
+ES	lo revisé para asegurarme de que todavía estuviera vivo.
+FR	j'ai vérifié pour s'assurer qu'il était toujours en vie.
+IT	ho controllato per essere sicuro che fosse ancora vivo.
+NL	ik controleerde of hij nog leefde.
+PT	eu verifiquei se ele ainda estava vivo.
+SV	jag kollade för att se till att han fortfarande levde.
+DE	woher kommen zufällige gedanken?
+EN	where do random thoughts come from?
+ES	¿de dónde vienen los pensamientos aleatorios?
+FR	d'où viennent les pensées aléatoires?
+IT	da dove vengono i pensieri casuali?
+NL	waar komen willekeurige gedachten vandaan?
+PT	de onde vêm os pensamentos aleatórios?
+SV	var kommer slumpmässiga tankar från?
+DE	der alte apfel schwelgt in seiner autorität.
+EN	the old apple revels in its authority.
+ES	la manzana vieja se revela en su autoridad.
+FR	la vieille pomme se délecte de son autorité.
+IT	la vecchia mela gode della sua autorità.
+NL	de oude appel herleeft in zijn autoriteit.
+PT	a velha maçã se deleita em sua autoridade.
+SV	det gamla äpplet fyller sig i sin auktoritet.
+DE	katzen sind gute haustiere, weil sie sauber sind und nicht laut sind.
+EN	cats are good pets, because they are clean and they are not noisy.
+ES	los gatos son buenas mascotas, ya que están limpias y no son ruidosas.
+FR	les chats sont de bons animaux de compagnie, car ils sont propres et ils ne sont pas bruyants.
+IT	i gatti sono buoni animali, perché sono puliti e non sono rumorosi.
+NL	katten zijn goede huisdieren, omdat ze schoon zijn en ze niet luidruchtig zijn.
+PT	os gatos são bons animais de estimação, porque são limpos e não são barulhentos.
+SV	katter är bra husdjur, eftersom de är rena och de är inte bullriga.
+DE	ich wäre befördert worden, aber meine anwesenheit war nicht genug.
+EN	i would have gotten the promotion, but my attendance was not enough.
+ES	hubiera sido promovido, pero mi presencia no fue suficiente.
+FR	j'aurais eu la promotion, mais ma présence n'était pas suffisante.
+IT	sarei stato promosso, ma la mia presenza non era abbastanza.
+NL	ik zou gepromoveerd zijn, maar mijn aanwezigheid was niet genoeg.
+PT	eu teria sido promovido, mas minha presença não foi suficiente.
+SV	jag skulle ha blivit främjad, men min närvaro var inte tillräckligt.
+DE	abstraktion ist oft eine ebene über dir.
+EN	abstraction is often a plane above you.
+ES	la abstracción es a menudo un plano por encima de ti.
+FR	l'abstraction est souvent un avion au-dessus de vous.
+IT	l'astrazione è spesso un piano sopra di te.
+NL	abstractie is vaak een vlak boven je.
+PT	abstração é muitas vezes um plano acima de você.
+SV	abstraktion är ofta ett plan ovanför dig.
+DE	wir waren noch nie in asien und haben afrika nicht besucht.
+EN	we have never been to asia, nor have we visited africa.
+ES	nunca hemos estado en asia, ni hemos visitado áfrica.
+FR	nous ne sommes jamais allés en asie et nous n’avons pas visité l’afrique.
+IT	non siamo mai stati in asia, né abbiamo visitato l'africa.
+NL	we zijn nog nooit in azië geweest, noch hebben we afrika bezocht.
+PT	nunca estivemos na ásia nem visitamos a áfrica.	
+SV	vi har aldrig varit i asien, inte heller har vi besökt afrika.
+DE	sie hat sein buch vor vielen jahren geliehen und hat es noch nicht zurückgegeben.
+EN	she borrowed his book many years ago and has not returned it yet.
+ES	ella le prestó su libro hace muchos años y aún no lo ha devuelto.
+FR	elle a emprunté son livre il y a plusieurs années et ne l'a pas encore rendu.
+IT	ha preso in prestito il suo libro molti anni fa e non l'ha ancora restituito.
+NL	ze leende zijn boek vele jaren geleden en heeft het nog niet teruggegeven.
+PT	ela emprestou o livro dele há muitos anos e ainda não o devolveu.
+SV	hon lånade sin bok för många år sedan och har inte returnerat den än.
+DE	er sagte, dass er gestern nicht da war; aber viele sahen ihn dort.
+EN	he said he was not there yesterday; but many saw him there.
+ES	dijo que no estaba allí ayer; pero muchos lo vieron allí.
+FR	il a dit qu'il n'était pas là hier; mais beaucoup l'ont vu là.
+IT	ha detto che non era lì ieri; ma molti lo hanno visto lì.
+NL	hij zei dat hij gisteren niet aanwezig was; maar velen zagen hem daar.
+PT	ele disse que não estava lá ontem; mas muitos o viram lá.
+SV	han sa att han inte var där igår; men många såg honom där.
+DE	das ist der letzte zufällige satz, den ich schreiben werde und ich werde mitten im satz aufhören.
+EN	this is the last random sentence that i will write and i will stop in the middle of the sentence.
+ES	esta es la última oración aleatoria que escribiré y me detendré en el medio de la oración.
+FR	c'est la dernière phrase aléatoire que j'écrirai et je m'arrêterai au milieu de la phrase.
+IT	questa è l'ultima frase casuale che scriverò e mi fermerò nel mezzo della frase.
+NL	dit is de laatste willekeurige zin die ik zal schrijven en ik zal halverwege de zin stoppen.
+PT	esta é a última frase aleatória que vou escrever e vou parar no meio da frase.
+SV	det här är den sista slumpmässiga meningen som jag ska skriva och jag kommer att stanna mitt i meningen.
+DE	ich wäre lieber ein vogel als ein fisch.
+EN	i'd rather be a bird than a fish.
+ES	prefiero ser un pájaro que un pez.
+FR	je préfère être un oiseau qu'un poisson.
+IT	preferirei essere un uccello piuttosto che un pesce.
+NL	ik ben liever een vogel dan een vis.
+PT	eu prefiro ser um pássaro que um peixe.
+SV	jag skulle hellre vara en fågel än en fisk.
+DE	es gab aufhellungsbedingungen in der stadt; danach waren die straßen unpassierbar.
+EN	there were whitening conditions in the city; subsequently, the roads were impassable.
+ES	había condiciones de blanqueamiento en la ciudad; posteriormente, las carreteras fueron intransitables.
+FR	il y avait des conditions de blanchiment dans la ville; par la suite, les routes étaient impraticables.
+IT	c'erano condizioni di sbiancamento in città; successivamente, le strade erano impraticabili.
+NL	er waren bleekomstandigheden in de stad; vervolgens waren de wegen onbegaanbaar.
+PT	havia condições de branqueamento na cidade; posteriormente, as estradas eram intransitáveis.
+SV	det fanns vitare förhållanden i staden; därefter var vägarna omöjliga.
+DE	er gab am freitag die forschungsarbeit zurück; sonst hätte er die klasse nicht bestanden.
+EN	he returned the research paper on friday; otherwise, he would not have passed the class.
+ES	él devolvió el trabajo de investigación el viernes; de lo contrario, no hubiera aprobado la clase.
+FR	il a rendu le document de recherche vendredi; sinon, il n'aurait pas passé la classe.
+IT	ha restituito il documento di ricerca il venerdì; altrimenti, non avrebbe passato la lezione.
+NL	hij keerde de research paper vrijdag terug; anders zou hij de klas niet gepasseerd zijn.
+PT	ele devolveu o trabalho de pesquisa na sexta-feira; caso contrário, ele não teria passado a aula.
+SV	han återvände forskningsrapporten på fredag; annars hade han inte gått i klassen.
+DE	wow, funktioniert es?
+EN	wow, does it work?
+ES	wow, ¿funciona?
+FR	wow, ça marche?
+IT	wow, funziona?
+NL	wauw, werkt het?
+PT	wow, isso funciona?
+SV	wow, fungerar det?
+DE	ich höre, dass nancy sehr schön ist.
+EN	i hear that nancy is very beautiful.
+ES	escuché que nancy es muy hermosa.
+FR	j'ai entendu dire que nancy est très belle.
+IT	ho sentito che la fantasia è molto bella.
+NL	ik hoor dat nancy heel mooi is.
+PT	ouvi dizer que nancy é muito bonita.
+SV	jag hör att nancy är väldigt vacker.
+DE	es gab kein eis im gefrierschrank, kein geld, um in den laden zu gehen.
+EN	there was no ice cream in the freezer, no money to go to the store.
+ES	no había helado en el congelador, ni dinero para ir a la tienda.
+FR	il n'y avait pas de glace dans le congélateur, pas d'argent pour aller au magasin.
+IT	non c'era gelato nel freezer, niente soldi per andare al negozio.
+NL	er was geen ijs in de vriezer, geen geld om naar de winkel te gaan.
+PT	não havia sorvete no freezer, nem dinheiro para ir à loja.
+SV	det fanns ingen glass i frysen, inga pengar att gå till affären.
+DE	weihnachten steht vor der tür.
+EN	christmas is coming.
+ES	la navidad se acerca.
+FR	noël arrive.
+IT	il natale sta arrivando
+NL	kerstmis komt eraan.
+PT	o natal está chegando.
+SV	julen är kommande.
+DE	mary spielt klavier.
+EN	mary plays the piano.
+ES	mary toca el piano.
+FR	mary joue du piano.
+IT	mary suona il piano.
+NL	mary speelt piano.
+PT	mary toca piano.
+SV	mary spelar piano.
+DE	sie spricht immer mit einer lauten stimme zu ihm.
+EN	she always speaks to him in a loud voice.
+ES	ella siempre le habla en voz alta.
+FR	elle lui parle toujours à voix haute.
+IT	lei gli parla sempre a voce alta.
+NL	ze spreekt altijd met luide stem tegen hem.
+PT	ela sempre fala com ele em voz alta.
+SV	hon talar alltid med honom med hög röst.
+DE	sie tat alles, um ihm zu helfen.
+EN	she went out of her way to help him.
+ES	ella hizo todo lo posible para ayudarlo.
+FR	elle a fait tout son possible pour l'aider.
+IT	ha fatto tutto il possibile per aiutarlo.
+NL	ze deed haar uiterste best om hem te helpen.
+PT	ela saiu do seu caminho para ajudá-lo.
+SV	hon gick ut ur hennes sätt att hjälpa honom.
+DE	mittwoch ist holpriger tag, aber fragte jemand das kamel, wenn er glücklich ist?
+EN	wednesday is hump day, but did anyone ask the camel if he's happy?
+ES	el miércoles es un día lleno de baches, pero ¿alguien preguntó al camello si estaba feliz?
+FR	mercredi est la journée bosse, mais est-ce que quelqu'un a demandé au chameau s'il est content?
+IT	il mercoledì è un giorno accidentato, ma qualcuno ha chiesto al cammello se è felice?
+NL	woensdag is hobbelige dag, maar heeft iemand de kameel gevraagd of hij gelukkig is?
+PT	quarta-feira é dia agitado, mas alguém perguntou ao camelo se ele está feliz?
+SV	onsdag är ojämn dag, men frågade någon kamel om han är glad?
+DE	wenn ich etwas nicht mag, werde ich mich davon fernhalten.
+EN	if i do not like something, i'll stay away from it.
+ES	si no me gusta algo, me mantendré alejado de él.
+FR	si je n'aime pas quelque chose, je resterai loin de ça.
+IT	se non mi piace qualcosa, starò lontano da esso.
+NL	als ik iets niet leuk vind, blijf ik er vanaf.
+PT	se eu não gostar de algo, vou ficar longe disso.
+SV	om jag inte gillar något, kommer jag att hålla mig borta från det.
+DE	es wurde dunkel und wir waren noch nicht da.
+EN	it got dark and we were not there yet.
+ES	oscureció y aún no estábamos allí.
+FR	il faisait nuit et nous n'étions pas encore là.
+IT	è diventato buio e non eravamo ancora arrivati.
+NL	het werd donker en we waren er nog niet.
+PT	ficou escuro e ainda não estávamos lá.
+SV	det blev mörkt och vi var inte där ännu.
+DE	sollten wir jetzt mit dem unterricht beginnen, oder sollten wir auf alle warten?
+EN	should we start class now, or should we wait for everyone to arrive?
+ES	¿deberíamos comenzar la clase ahora, o deberíamos esperar a que todos lleguen?
+FR	devrions-nous commencer le cours maintenant ou devrions-nous attendre que tout le monde arrive?
+IT	dovremmo iniziare subito la lezione, o dovremmo aspettare che arrivino tutti?
+NL	moeten we nu beginnen met les, of moeten we wachten tot iedereen arriveert?
+PT	devemos começar a aula agora, ou devemos esperar que todos cheguem?
+SV	ska vi börja klassen, eller ska vi vänta på att alla ska komma fram?
+DE	rock-rusik-rethoden mit hoher geschwindigkeit.
+EN	rock music methods at high speed.
+ES	métodos de música rock a alta velocidad.
+FR	méthodes de musique rock à grande vitesse.
+IT	metodi di musica rock ad alta velocità.
+NL	rock-muziek methoden op hoge snelheid.
+PT	métodos de música rock em alta velocidade.
+SV	rockmusikmetoder vid hög hastighet.
