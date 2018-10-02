@@ -4551,4 +4551,3 @@ Total testing examples: 640
 Total correct: 497
 Total failures: 143
 Overall Accuracy for line-by-line testing: 0.7765625
-Total Running Time: 86 hours, 50 minutes, 23 seconds.
