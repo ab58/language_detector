@@ -5,13 +5,20 @@ Hi everyone! This is my own independent NLP/Machine Learning project, a language
 The first thing I did was come up with my classes; these are the specific languages I test for. I chose 4 Germanic languages and 4 Romance languages, all in the Latin script. My idea here was that if the model can distinguish between closely related languages, the extracted features are effective. The languages are as follows:
 
 DE (German)
+
 EN (English)
+
 NL (Dutch)
+
 SV (Swedish)
+
 ES (Spanish)
+
 FR (French)
+
 IT (Italian)
-P (Portuguese)
+
+PT (Portuguese)
 
 Next, I gathered my training data. For this, I went to Wikipedia and copied 3 articles in all 8 languages into plain text files. I needed to find articles which were sufficiently long in all languages. I also wanted to find articles that discussed a wide variety of topics, so that the words and sentences of my training data could be as diverse as possible. These articles are: "Association Football", "World War 2", and "Atlantic Ocean". 24 total Wikipedia articles therefore serve as my training data. I did some preliminary processing on these articles; I eliminated all the numbered links that show up in the articles, eliminated superfluous information such as links to other articles, left out the cited references sections, and converted everything to lower case. It was straightforward to do this pre-processing from the UNIX command line.
 
